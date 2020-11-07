@@ -166,7 +166,7 @@
         }
       ],
       "name": "Animal",
-      "url": "https://raw.githubusercontent.com/kingcut/flutter_tom_draw_animation_svg/main/category/category_animal.jpg",
+      "url": "https://raw.githubusercontent.com/kingcut/flutter_tom_draw_animation_svg/main/category/category_animal.svg",
       "color": "#ffffff"
     },
     {
@@ -355,7 +355,7 @@
         }
       ],
       "name": "Christmas",
-      "url": "https://raw.githubusercontent.com/kingcut/flutter_tom_draw_animation_svg/main/category/category_christmas.jpg",
+      "url": "https://raw.githubusercontent.com/kingcut/flutter_tom_draw_animation_svg/main/category/category_christmas.svg",
       "color": "#ffffff"
     },
     {
@@ -579,7 +579,7 @@
         }
       ],
       "name": "Family",
-      "url": "https://raw.githubusercontent.com/kingcut/flutter_tom_draw_animation_svg/main/category/category_family.jpg",
+      "url": "https://raw.githubusercontent.com/kingcut/flutter_tom_draw_animation_svg/main/category/category_family.svg",
       "color": "#ffffff"
     },
     {
@@ -693,7 +693,7 @@
         }
       ],
       "name": "Flower",
-      "url": "https://raw.githubusercontent.com/kingcut/flutter_tom_draw_animation_svg/main/category/category_flower.jpg",
+      "url": "https://raw.githubusercontent.com/kingcut/flutter_tom_draw_animation_svg/main/category/category_flower.svg",
       "color": "#ffffff"
     },
     {
@@ -832,7 +832,7 @@
         }
       ],
       "name": "Fruit",
-      "url": "https://raw.githubusercontent.com/kingcut/flutter_tom_draw_animation_svg/main/category/category_fruit.jpg",
+      "url": "https://raw.githubusercontent.com/kingcut/flutter_tom_draw_animation_svg/main/category/category_fruit.svg",
       "color": "#ffffff"
     },
     {
@@ -906,7 +906,7 @@
         }
       ],
       "name": "Landscape",
-      "url": "https://raw.githubusercontent.com/kingcut/flutter_tom_draw_animation_svg/main/category/category_landscape.jpg",
+      "url": "https://raw.githubusercontent.com/kingcut/flutter_tom_draw_animation_svg/main/category/category_landscape.svg",
       "color": "#ffffff"
     },
     {
@@ -1010,7 +1010,7 @@
         }
       ],
       "name": "Princess",
-      "url": "https://raw.githubusercontent.com/kingcut/flutter_tom_draw_animation_svg/main/category/category_princess.jpg",
+      "url": "https://raw.githubusercontent.com/kingcut/flutter_tom_draw_animation_svg/main/category/category_princess.svg",
       "color": "#ffffff"
     },
     {
@@ -1074,7 +1074,7 @@
         }
       ],
       "name": "Toy",
-      "url": "https://raw.githubusercontent.com/kingcut/flutter_tom_draw_animation_svg/main/category/category_toy.jpg",
+      "url": "https://raw.githubusercontent.com/kingcut/flutter_tom_draw_animation_svg/main/category/category_toy.svg",
       "color": "#ffffff"
     },
     {
@@ -1148,7 +1148,7 @@
         }
       ],
       "name": "Transport",
-      "url": "https://raw.githubusercontent.com/kingcut/flutter_tom_draw_animation_svg/main/category/category_transport.jpg",
+      "url": "https://raw.githubusercontent.com/kingcut/flutter_tom_draw_animation_svg/main/category/category_transport.svg",
       "color": "#ffffff"
     }
   ],
